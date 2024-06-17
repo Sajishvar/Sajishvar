@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Sajishvar
-- 👀 I’m interested in Game development and web development
-- 🌱 I’m currently learning web development
-- Currently working as a Trainee @ Swartup (pvt) Ltd
+👋 Hi there! I'm an undergraduate student in Computer Engineering at the Faculty of Engineering, University of Jaffna. I'm passionate about game development and web development.
 
-<!---
-Sajishvar/Sajishvar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 Currently, I'm working part-time as a web developer at Swartup, where I get to work on exciting projects and enhance my skills in web technologies.
+
+🎯 My career goals are to excel in game development and web development. I'm always eager to learn new things, take on challenges, and contribute to innovative projects.
